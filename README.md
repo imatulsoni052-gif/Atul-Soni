@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Atul Soni
 🚀 Aspiring Data Analyst | SQL • Power BI • Python • Machine Learning
 
+![Profile Views](https://komarev.com/ghpvc/?username=AtulSoni&color=blue) 
 [Portfolio Website](https://www.wscubetech.com/portfolio/data/atul-soni-8nrpnp1)  – Showcasing dashboards, notebooks & case studies  
 ![GitHub followers](https://img.shields.io/github/followers/AtulSoni?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AtulSoni?style=social)  
