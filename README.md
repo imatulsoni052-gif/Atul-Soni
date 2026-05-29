@@ -20,7 +20,7 @@
 **Languages:** Python, SQL  
 **Data Visualization:** Power BI, Excel  
 **Machine Learning:** Logistic Regression, Linear Regression  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, scipy 
 
 ---
 
