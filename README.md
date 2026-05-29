@@ -10,7 +10,7 @@
 ## 🔹 About Me  
 - 🎯 Currently **preparing for interviews** and actively **seeking Data Analyst opportunities**  
 - 📊 Completed a **capstone project** combining SQL, Power BI, and ML  
-- 🛠 Skilled in **Python, SQL, Power BI, and data visualization**  
+- 🛠 Skilled in **Python, SQL, Power BI, excel, and data visualization**  
 - 🌍 Based in India  
 - 💡 Goal: Become an ** Data Analyst** and build impactful insights  
 
