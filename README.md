@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Atul Soni
-🚀 Aspiring Data Analyst | SQL • Power BI • Python • Machine Learning
+# Hi there 👋 I'm Atul Soni  
+🚀 Aspiring Data Analyst | SQL • Power BI • Python • Excel • Machine Learning
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtulSoni&color=blue) 
 ![GitHub followers](https://img.shields.io/github/followers/AtulSoni?style=social)  
