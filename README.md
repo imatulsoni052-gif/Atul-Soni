@@ -2,10 +2,6 @@
 
 Data Analyst (fresher) based in Satna, Madhya Pradesh — working with SQL, Power BI, Python, and Excel to turn raw data into insights that actually drive a decision.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AtulSoni&color=blue) 
-![GitHub followers](https://img.shields.io/github/followers/AtulSoni?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/AtulSoni?style=social)  
-
 ## About Me
 
 I'm currently interviewing for Data Analyst, BI Analyst, MIS Analyst and similar kind of roles, mostly around Delhi/NCR and central India. Over the last year I've gone from learning the basics to building full analytics pipelines — cleaning data, modeling it, and putting the results in front of people who need to make a call.
@@ -27,11 +23,6 @@ A few things about how I got here:
 
 **[Nike Shorts & TikTok Campaign Insights](https://github.com/imatulsoni052-gif/Nike-Shorts-TikTok-Insights-2025)**
 Analyzed 5B+ views from 48,000+ videos to compare TikTok vs. YouTube Shorts performance for a Nike-style campaign. Built 12 SQL queries and 5 Power BI dashboards; found TikTok outperformed YouTube Shorts by 130% in views and 80% in engagement. Used logistic regression to flag likely-viral content and linear regression to estimate completion rates.
-
-##  GitHub Stats  
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtulSoni&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSoni&layout=compact&theme=radical)  
----
 
 **Jenson USA Data Analysis**
 Wrote 12+ SQL queries using window functions and joins to dig into customer behavior, staff performance, and inventory across stores — surfaced the top 10 best-selling products and flagged 15+ SKUs that had never been ordered, which fed directly into restocking decisions.
