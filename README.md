@@ -25,9 +25,6 @@ A few things about how I got here:
 **[Nike Shorts & TikTok Campaign Insights](https://github.com/imatulsoni052-gif/Nike-Shorts-TikTok-Insights-2025)**
 Analyzed 5B+ views from 48,000+ videos to compare TikTok vs. YouTube Shorts performance for a Nike-style campaign. Built 12 SQL queries and 5 Power BI dashboards; found TikTok outperformed YouTube Shorts by 130% in views and 80% in engagement. Used logistic regression to flag likely-viral content and linear regression to estimate completion rates.
 
-**Tata iQ Credit Risk Analytics** (Forage job simulation)
-Ran end-to-end EDA on a 500-record customer delinquency dataset, then proposed a logistic regression framework to flag at-risk customers — with evaluation criteria built around accuracy, fairness, and bias mitigation, not just raw performance. Wrote up the findings as a business summary report aimed at a Head of Collections.
-
 **Jenson USA Data Analysis**
 Wrote 12+ SQL queries using window functions and joins to dig into customer behavior, staff performance, and inventory across stores — surfaced the top 10 best-selling products and flagged 15+ SKUs that had never been ordered, which fed directly into restocking decisions.
 
