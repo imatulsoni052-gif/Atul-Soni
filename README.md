@@ -1,7 +1,7 @@
-# Hi, I'm Atul Soni
+## Hi, I'm Atul Soni
 
 Data Analyst (fresher) based in Satna, Madhya Pradesh — working with SQL, Power BI, Python, and Excel to turn raw data into insights that actually drive a decision.
--
+
 
 ## About Me
 
